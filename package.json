@@ -1,0 +1,27 @@
+{
+  "name": "salary-progression-sidebar",
+  "version": "1.0.0",
+  "description": "React sidebar component for salary progression calculations",
+  "main": "SalaryProgressionSidebar.jsx",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "salary",
+    "progression",
+    "react",
+    "sidebar"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/jest-dom": "^6.1.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
+
